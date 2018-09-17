@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue Nov 14 15:14:18 CST 2017
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=nginx_webServer.jar
+manifest.mergeall=true
+manifest.mainclass=com.ittu.SimpleHttpServer
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

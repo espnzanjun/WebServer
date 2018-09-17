@@ -1,0 +1,1 @@
+java -jar nginx_webServer.jar Server1 8888
